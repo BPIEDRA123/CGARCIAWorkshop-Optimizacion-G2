@@ -38,12 +38,9 @@ Se recomienda continuar con:
 
 ##  Responsables del proyecto  
 
-| Nombre | Rol | Tarea |
-|:--------|:------|:---------|
+| Nombre | Rol | 
+|:--------|:------|
 | **Christian García** | Desarrollador | 
 | **Byron Piedra** | Product Owner | 
 
----
-
-## 🗂️ Estructura del repositorio  
 
